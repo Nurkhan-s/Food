@@ -1,11 +1,11 @@
 {
-  "name": "dist",
+  "name": "food",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Nurkhan",
   "license": "ISC",
   "devDependencies": {
     "json-server": "^0.16.3",
@@ -14,5 +14,13 @@
   },
   "dependencies": {},
   "keywords": [],
-  "description": ""
+  "description": "project food",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nurkhan-s/Food.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nurkhan-s/Food/issues"
+  },
+  "homepage": "https://github.com/Nurkhan-s/Food#readme"
 }
